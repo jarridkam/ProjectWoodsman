@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0fd82854ec477e046977ebb462dce022
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Unity/Terrain Tools/NoiseLib/NoiseImpl.hlsl
+  uploadId: 601364

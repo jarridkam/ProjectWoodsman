@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1e6400aedf11bb3458cc1b6c6c2b2175
+timeCreated: 1449020615
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/ExtensionSystem/Compatible/Tenkoku.cs
+  uploadId: 601364

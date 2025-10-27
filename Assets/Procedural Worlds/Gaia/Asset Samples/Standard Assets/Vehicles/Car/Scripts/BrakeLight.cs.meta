@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fffafd711dc1dbc478a49705cfe1ce3d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Standard Assets/Vehicles/Car/Scripts/BrakeLight.cs
+  uploadId: 601364

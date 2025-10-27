@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f78ae83a9d6a8c84c84743c813fae7b1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Unity/Terrain Tools/NoiseLib/None/Perlin.hlsl
+  uploadId: 601364

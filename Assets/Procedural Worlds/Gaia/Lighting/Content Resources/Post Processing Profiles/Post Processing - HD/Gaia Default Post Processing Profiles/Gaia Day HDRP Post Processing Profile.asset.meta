@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7401b5c0a355a504e85f0c764c896a8a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Lighting/Content Resources/Post Processing
+    Profiles/Post Processing - HD/Gaia Default Post Processing Profiles/Gaia Day
+    HDRP Post Processing Profile.asset
+  uploadId: 601364

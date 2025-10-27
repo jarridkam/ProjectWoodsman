@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 42bb0bb1c11f1ed419c5f5afe688cef4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Mesh Simplifier/Runtime/Math/SymmetricMatrix.cs
+  uploadId: 601364

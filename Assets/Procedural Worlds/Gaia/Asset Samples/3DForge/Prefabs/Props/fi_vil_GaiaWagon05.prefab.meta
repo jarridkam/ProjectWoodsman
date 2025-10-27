@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f043bd7187b88ce4f8b4bb0c06411ed8
+timeCreated: 1454269924
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/3DForge/Prefabs/Props/fi_vil_GaiaWagon05.prefab
+  uploadId: 601364

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f64dd7ba4f8b6634dab5bc2ef9f711c5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Unity/Terrain Tools/NoiseLib/FBM/Ridge.hlsl
+  uploadId: 601364

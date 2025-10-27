@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: edae1547aaa127f4594f1c9a4c764468
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Lighting/Content Resources/Post Processing
+    Profiles/Post Processing - HD/Gaia Default Post Processing Profiles/Gaia Default
+    PW Sky Post Processing HD.asset
+  uploadId: 601364

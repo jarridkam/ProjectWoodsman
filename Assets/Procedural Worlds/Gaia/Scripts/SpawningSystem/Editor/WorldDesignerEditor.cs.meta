@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44f7726ac5af60c4a970bcdf7f860674
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/SpawningSystem/Editor/WorldDesignerEditor.cs
+  uploadId: 601364

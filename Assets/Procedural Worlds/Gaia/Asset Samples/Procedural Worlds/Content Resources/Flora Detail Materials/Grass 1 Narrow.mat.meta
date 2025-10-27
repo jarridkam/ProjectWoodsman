@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5de740ab1ff09ae4bb3bcad59c130401
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Procedural Worlds/Content
+    Resources/Flora Detail Materials/Grass 1 Narrow.mat
+  uploadId: 601364

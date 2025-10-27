@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1c149b711d8b2bd4ebb634764b68c220
+timeCreated: 1525242393
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Synty Studios/SM_POLYGON_Bush_01_B.prefab
+  uploadId: 601364

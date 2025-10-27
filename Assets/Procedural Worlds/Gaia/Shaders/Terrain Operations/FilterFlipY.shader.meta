@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bee27c26d1454e64b8bb784f12e29261
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Terrain Operations/FilterFlipY.shader
+  uploadId: 601364

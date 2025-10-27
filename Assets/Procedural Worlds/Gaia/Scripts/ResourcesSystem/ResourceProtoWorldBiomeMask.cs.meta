@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ad576717173ca624d89dabcc21723ed0
+timeCreated: 1442702659
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/ResourcesSystem/ResourceProtoWorldBiomeMask.cs
+  uploadId: 601364

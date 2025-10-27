@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f2b69d54e7ceb52428cd94a1dc808537
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Biomes/Scene Culling Profiles/Synty
+    Studios Scene Culling Profile.asset
+  uploadId: 601364

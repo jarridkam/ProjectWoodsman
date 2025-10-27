@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b4b51efa6725d54d91ce3d5c7e76e97
+timeCreated: 1525243751
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Synty Studios/SM_POLYGON_Rocks_01_A.prefab
+  uploadId: 601364

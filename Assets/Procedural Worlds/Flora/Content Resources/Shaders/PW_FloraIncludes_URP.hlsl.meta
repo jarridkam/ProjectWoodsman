@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2d07efbb978a9644997d4412b9735e3e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Flora/Content Resources/Shaders/PW_FloraIncludes_URP.hlsl
+  uploadId: 601364

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 676d51a93fad6434bb7ee1f64ad89551
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/PW General/PW_General_Deferred.shader
+  uploadId: 601364

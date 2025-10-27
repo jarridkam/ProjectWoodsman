@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7954fd9985d30ed40a118cdb843efb56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Lighting/Content Resources/Post Processing
+    Profiles/Post Processing - Builtin/Gaia Default Post Processing Profiles/Gaia
+    Default Afternoon Post Processing.asset
+  uploadId: 601364

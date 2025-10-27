@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07b4f425f5718554b863708c3826c292
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/GaiaTerrainStitcher.English.pwlpk
+  uploadId: 601364

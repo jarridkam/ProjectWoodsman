@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 66f7687156e79c442ba262841c9312a2
+timeCreated: 1450840456
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/StampingSystem/RuntimeStamper.cs
+  uploadId: 601364

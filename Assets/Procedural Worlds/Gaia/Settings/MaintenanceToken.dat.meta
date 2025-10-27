@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d10f73086da344b41b57300e2ac493bf
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Settings/MaintenanceToken.dat
+  uploadId: 601364

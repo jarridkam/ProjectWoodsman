@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a3b997593a4f12c4c991490593f3b513
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt
+  uploadId: 601364

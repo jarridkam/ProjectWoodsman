@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 27ef16960c5db91489f664f287da107e
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Standard Assets/Vehicles/Car/Shaders/ReflectiveDiffuseSpecTransp.shader
+  uploadId: 601364

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 23eb8ff59be491548920f846156f66da
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Unity/Terrain Tools/NoiseLib/None/Voronoi.hlsl
+  uploadId: 601364

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c22749c16bfe8aa428f5e54cf7cc6505
+timeCreated: 1541396655
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Photo Mode/Prefabs and FX/FlyCamera
+    UI.prefab
+  uploadId: 601364

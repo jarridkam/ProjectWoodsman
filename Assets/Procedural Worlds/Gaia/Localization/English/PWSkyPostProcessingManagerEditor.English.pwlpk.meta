@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75f44d68769db8e4dace671e7f327d53
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/PWSkyPostProcessingManagerEditor.English.pwlpk
+  uploadId: 601364

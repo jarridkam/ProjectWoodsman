@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 798730c727db147449b5eaa74a01e263
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Unity/Standard Shaders/license.txt
+  uploadId: 601364

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fce6c42068880f7489ef6ac6eea087a2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Photo Mode/Fonts/OFL.txt
+  uploadId: 601364

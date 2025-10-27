@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3afbc3e5d4b65b478c18ddb73235d7b
+timeCreated: 1454280172
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/3DForge/Prefabs/fi_vil_GaiaHouse03B.prefab
+  uploadId: 601364

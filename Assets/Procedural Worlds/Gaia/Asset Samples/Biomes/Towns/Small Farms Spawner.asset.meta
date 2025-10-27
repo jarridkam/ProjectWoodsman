@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9fbafd03df244514284cb5590d82c699
+labels:
+- GaiaManagerSpawner
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Biomes/Towns/Small Farms
+    Spawner.asset
+  uploadId: 601364

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7e9819aca386bc947965032b73cf2a2d
+timeCreated: 1451435241
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Attributes/PreviewTextureAttribute.cs
+  uploadId: 601364

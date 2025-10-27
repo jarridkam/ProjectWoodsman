@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e6188ef1ec6f634468728d8e9f8f7c8b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Terrain Operations/FilterStrengthTransform.shader
+  uploadId: 601364

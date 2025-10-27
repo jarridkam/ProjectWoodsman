@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 598593ee2b5911e44b9b03c445696d9b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/PW General/PW_GeneralWind.cginc
+  uploadId: 601364

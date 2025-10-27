@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d7c0ed2bc1213e949a41c0added9eaee
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/HDRPTimeOfDayOverrideVolumeEditor.English.pwlpk
+  uploadId: 601364

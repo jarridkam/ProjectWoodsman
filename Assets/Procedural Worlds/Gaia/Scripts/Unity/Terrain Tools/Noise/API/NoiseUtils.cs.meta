@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 32f30b28138f17a44b58e260d38fb032
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Unity/Terrain Tools/Noise/API/NoiseUtils.cs
+  uploadId: 601364

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b8c696c22a1c5b4fa46ca1de444d20e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Color_Checker/Chart.mat
+  uploadId: 601364

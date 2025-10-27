@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c814d2df27a2eb14d9f6198b08046609
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/XR/GaiaXRController.unitypackage
+  uploadId: 601364

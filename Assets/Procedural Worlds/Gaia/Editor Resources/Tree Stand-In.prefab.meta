@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d42c4a23fa92c7479007639ed6e1aec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Editor Resources/Tree Stand-In.prefab
+  uploadId: 601364

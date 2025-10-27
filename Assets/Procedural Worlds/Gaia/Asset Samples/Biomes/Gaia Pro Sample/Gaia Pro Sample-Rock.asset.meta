@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 76f07dd99e8eed643bc6dc110ac3b34f
+labels:
+- GaiaManagerSpawner
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Biomes/Gaia Pro Sample/Gaia
+    Pro Sample-Rock.asset
+  uploadId: 601364

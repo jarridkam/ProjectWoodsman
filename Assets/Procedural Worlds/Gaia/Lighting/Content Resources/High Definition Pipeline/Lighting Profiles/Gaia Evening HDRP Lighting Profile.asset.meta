@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: df87767e946274240808803be582b5cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Lighting/Content Resources/High Definition
+    Pipeline/Lighting Profiles/Gaia Evening HDRP Lighting Profile.asset
+  uploadId: 601364

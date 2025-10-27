@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5faa39c200878be48ad077aa3b9021ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Photo Mode/Prefabs and FX/Post
+    Processing/Pause Menu Blur Profile.asset
+  uploadId: 601364

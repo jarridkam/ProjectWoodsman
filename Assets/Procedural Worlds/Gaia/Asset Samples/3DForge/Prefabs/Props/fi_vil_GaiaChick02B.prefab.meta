@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfab073b8b6a8af46b3bc25aaa43aea1
+timeCreated: 1454343482
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/3DForge/Prefabs/Props/fi_vil_GaiaChick02B.prefab
+  uploadId: 601364

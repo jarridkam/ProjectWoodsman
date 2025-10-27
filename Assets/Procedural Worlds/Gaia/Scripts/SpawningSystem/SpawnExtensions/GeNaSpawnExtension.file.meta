@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa421c7b24a3d0b4a97bd7a94ccd7c29
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/SpawningSystem/SpawnExtensions/GeNaSpawnExtension.file
+  uploadId: 601364

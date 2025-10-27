@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d5feac38675274740b55ad67a806022c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Mesh Simplifier/Runtime/Components/LODGeneratorHelper.cs
+  uploadId: 601364

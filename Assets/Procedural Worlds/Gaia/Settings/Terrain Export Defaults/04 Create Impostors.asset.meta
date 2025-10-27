@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc06154844ca0b046ae05c9f8deafc43
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Settings/Terrain Export Defaults/04 Create
+    Impostors.asset
+  uploadId: 601364

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5b41c9d610f3dd48993c4a07e4bbcff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Water/Prefab/Underwater Transition Post
+    Processing.prefab
+  uploadId: 601364

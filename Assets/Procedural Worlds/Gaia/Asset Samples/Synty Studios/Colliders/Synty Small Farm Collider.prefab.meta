@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a16bbe262433ba4ca3047542505778c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Synty Studios/Colliders/Synty
+    Small Farm Collider.prefab
+  uploadId: 601364

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da06ef9c063b2644eb3f7ed4b3178aab
+timeCreated: 1454343940
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/3DForge/Prefabs/Props/fi_vil_GaiaStable01.prefab
+  uploadId: 601364

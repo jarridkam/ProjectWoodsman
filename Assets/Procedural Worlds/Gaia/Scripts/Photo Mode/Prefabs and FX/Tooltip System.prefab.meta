@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15c1b38723103ca43a35eeee09b78957
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Photo Mode/Prefabs and FX/Tooltip
+    System.prefab
+  uploadId: 601364

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19820f9d1a3b64140b74a937a6d9ce1a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Procedural Worlds/Content
+    Resources/PW_Tree_Spruce_05/PW_Tree_Spruce_01_05_LOD3.prefab
+  uploadId: 601364

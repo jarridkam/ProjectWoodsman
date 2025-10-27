@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f730ec2a2de88db4b80f44d5c13539b0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Lighting/Content Resources/Post Processing
+    Profiles/Post Processing - URP/Gaia Default Post Processing Profiles/Gaia Default
+    Morning Post Processing URP.asset
+  uploadId: 601364

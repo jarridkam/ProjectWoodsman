@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8539e744b2a9c484991514155d0155c6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/GaiaLightingProfileEditor.English.pwlpk
+  uploadId: 601364

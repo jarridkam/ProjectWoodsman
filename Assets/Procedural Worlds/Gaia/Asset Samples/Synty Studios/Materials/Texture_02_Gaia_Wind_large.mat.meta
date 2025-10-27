@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 36d2204669fa11b42ae87a518f68a5a1
+timeCreated: 1524474184
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Synty Studios/Materials/Texture_02_Gaia_Wind_large.mat
+  uploadId: 601364

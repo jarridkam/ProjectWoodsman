@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 317faaadcd86d7f4ba919d72c10dc8f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/ValueAdds/Post Processing Converter/Editor/PostProcessingConverterEditor.cs
+  uploadId: 601364

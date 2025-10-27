@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 964d990133cf0e2498e073fc1b95e5f6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/DisableUnderwaterFXTriggerEditor.English.pwlpk
+  uploadId: 601364

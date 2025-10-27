@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54f4fac3c7f0a1e44a45853d26c87b49
+timeCreated: 1442463180
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Settings/GD Desktop Settings.asset
+  uploadId: 601364

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8f27fcd9a7d6a7445bf8b98430c88e3c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Editor Resources/World Designer Sample
+    Objects.mat
+  uploadId: 601364

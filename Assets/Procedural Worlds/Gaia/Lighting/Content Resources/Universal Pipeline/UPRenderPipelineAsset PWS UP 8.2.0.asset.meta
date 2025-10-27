@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 19ba41d7c0026c3459d37c2fe90c55a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Lighting/Content Resources/Universal Pipeline/UPRenderPipelineAsset
+    PWS UP 8.2.0.asset
+  uploadId: 601364

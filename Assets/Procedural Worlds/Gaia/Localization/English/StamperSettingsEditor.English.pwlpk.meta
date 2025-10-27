@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6550e4540cc884d47b79660c75130c4c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/StamperSettingsEditor.English.pwlpk
+  uploadId: 601364

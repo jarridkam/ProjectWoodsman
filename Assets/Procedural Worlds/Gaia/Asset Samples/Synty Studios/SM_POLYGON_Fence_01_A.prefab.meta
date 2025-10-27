@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 082ada77a76e4ff45a48fb6c36d12fe7
+timeCreated: 1525243212
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Synty Studios/SM_POLYGON_Fence_01_A.prefab
+  uploadId: 601364

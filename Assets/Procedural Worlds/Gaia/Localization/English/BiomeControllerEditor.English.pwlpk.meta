@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1321f08fc342cd44684770a14443a104
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/BiomeControllerEditor.English.pwlpk
+  uploadId: 601364

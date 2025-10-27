@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0ee9598fbc2f5ab42b7b5bf1cccfa6af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Lighting/Content Resources/High Definition
+    Pipeline/HDRenderPipelineAsset PWS HD 7.2.0.asset
+  uploadId: 601364

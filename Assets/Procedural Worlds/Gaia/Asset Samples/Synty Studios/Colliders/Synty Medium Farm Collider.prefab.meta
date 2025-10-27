@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c898c4f4a8a895347a49a728baa4f7a4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Synty Studios/Colliders/Synty
+    Medium Farm Collider.prefab
+  uploadId: 601364

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a88c9144ec543e44ca2012e675e651ea
+timeCreated: 1456017095
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Editor/GaiaTerrainHeightAdjuster.cs
+  uploadId: 601364

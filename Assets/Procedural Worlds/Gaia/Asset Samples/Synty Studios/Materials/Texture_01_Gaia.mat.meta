@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06bd5c67b8662f64a91822c91cea93a6
+timeCreated: 1524474184
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Synty Studios/Materials/Texture_01_Gaia.mat
+  uploadId: 601364

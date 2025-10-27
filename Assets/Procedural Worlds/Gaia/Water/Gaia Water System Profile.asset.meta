@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8538f7473906d494dbeff74437319b45
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Water/Gaia Water System Profile.asset
+  uploadId: 601364

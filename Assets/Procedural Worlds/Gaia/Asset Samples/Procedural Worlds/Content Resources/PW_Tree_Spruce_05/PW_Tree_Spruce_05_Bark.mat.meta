@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 36c9cc294e028984fad458beb4803db6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Procedural Worlds/Content
+    Resources/PW_Tree_Spruce_05/PW_Tree_Spruce_05_Bark.mat
+  uploadId: 601364

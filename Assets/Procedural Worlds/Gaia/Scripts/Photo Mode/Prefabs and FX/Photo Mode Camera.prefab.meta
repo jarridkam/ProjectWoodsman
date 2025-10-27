@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7995d116909a41c4e85e1d6db11b35a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Photo Mode/Prefabs and FX/Photo
+    Mode Camera.prefab
+  uploadId: 601364

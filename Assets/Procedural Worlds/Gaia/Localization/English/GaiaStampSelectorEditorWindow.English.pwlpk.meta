@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fd14a8809ec5e5439f5c889d9350f4e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/GaiaStampSelectorEditorWindow.English.pwlpk
+  uploadId: 601364

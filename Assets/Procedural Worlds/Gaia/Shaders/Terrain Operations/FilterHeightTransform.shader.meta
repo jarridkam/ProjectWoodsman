@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 820bb500563a2a74bae713bc5b5c5d69
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Terrain Operations/FilterHeightTransform.shader
+  uploadId: 601364

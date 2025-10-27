@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5d67dcaf933cf3d4e8edae39bb3951b1
+labels:
+- GaiaManagerSpawner
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Biomes/Synty Studios/Synty
+    Texture Spawner.asset
+  uploadId: 601364

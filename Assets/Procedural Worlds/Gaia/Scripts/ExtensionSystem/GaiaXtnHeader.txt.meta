@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4af7cb292fd770146b0a80c40340e965
+timeCreated: 1452595847
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/ExtensionSystem/GaiaXtnHeader.txt
+  uploadId: 601364

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab31bdb5aecea3744951fb814c0d268b
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Terrain Operations/SimulateSpawnResult.compute
+  uploadId: 601364

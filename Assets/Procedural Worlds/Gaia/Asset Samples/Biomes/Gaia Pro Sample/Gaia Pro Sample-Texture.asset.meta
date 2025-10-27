@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4dda95930422a9f469c0c99505aff15e
+labels:
+- GaiaManagerSpawner
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Biomes/Gaia Pro Sample/Gaia
+    Pro Sample-Texture.asset
+  uploadId: 601364

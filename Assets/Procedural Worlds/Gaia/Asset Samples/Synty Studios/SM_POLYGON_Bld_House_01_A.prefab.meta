@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3d90a5c2552ee874dba15f9f5481bc75
+timeCreated: 1525241851
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Synty Studios/SM_POLYGON_Bld_House_01_A.prefab
+  uploadId: 601364

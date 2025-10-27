@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1710f0812db15a946a39eed48d85498f
+timeCreated: 1454269852
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/3DForge/Documents/Village
+    Exteriors Kit v1.2.1 - user guide.txt
+  uploadId: 601364

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bcba582a5cbb6d44e9a1767b15cc2a11
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Unity/Terrain Tools/Generated/NoiseBlitFBM.shader
+  uploadId: 601364

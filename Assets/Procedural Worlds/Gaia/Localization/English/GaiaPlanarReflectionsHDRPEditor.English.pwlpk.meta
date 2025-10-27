@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b8581e1d84999bb498d46c081b5c5573
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/GaiaPlanarReflectionsHDRPEditor.English.pwlpk
+  uploadId: 601364

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf4ffa5b314eb3844aa3452e3513782c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Mesh Simplifier/Runtime/Internal/BlendShapeContainer.cs
+  uploadId: 601364

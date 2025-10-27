@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 796ccf24535dae0458f572c6a23f38cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Frameworks/PWAddressables1/DemoClient/Prefabs/WorldEntry.prefab
+  uploadId: 601364

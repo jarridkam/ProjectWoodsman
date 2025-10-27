@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c60ceacdea2c9f48a6da9d03f48c7f7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/WorldMapEditor.English.pwlpk
+  uploadId: 601364

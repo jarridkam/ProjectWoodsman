@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1b6904a2218ef847b819dcd8744c599
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Shaders/Terrain Operations/GetTerrainHeights.compute
+  uploadId: 601364

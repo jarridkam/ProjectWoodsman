@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e885c4d9571a87e4885e9a655a85d8ea
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/SpawnerSettingsEditor.English.pwlpk
+  uploadId: 601364

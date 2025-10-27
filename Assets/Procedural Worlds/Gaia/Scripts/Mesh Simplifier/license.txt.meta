@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1e2607843209234a99944565bb4bbec
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Mesh Simplifier/license.txt
+  uploadId: 601364

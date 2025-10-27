@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15a773d95f152fc43b160a74c0fc94f3
+timeCreated: 1446528507
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Turboscalpeur/Readme.txt
+  uploadId: 601364

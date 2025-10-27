@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1581915ff7523cf41ad5fa1cc20f655d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Asset Samples/Procedural Worlds/Content
+    Resources/PW_Tree_Spruce_05/PW_Tree_Spruce_05_Needles.mat
+  uploadId: 601364

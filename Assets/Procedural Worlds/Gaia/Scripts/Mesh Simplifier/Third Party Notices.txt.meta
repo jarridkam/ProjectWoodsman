@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8b426027dbfbac468e09db782522362
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Mesh Simplifier/Third Party Notices.txt
+  uploadId: 601364

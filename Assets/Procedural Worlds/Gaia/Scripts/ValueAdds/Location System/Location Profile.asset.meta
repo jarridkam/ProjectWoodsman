@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6fe1b315b70710248ae17a5cd139c1fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/ValueAdds/Location System/Location
+    Profile.asset
+  uploadId: 601364

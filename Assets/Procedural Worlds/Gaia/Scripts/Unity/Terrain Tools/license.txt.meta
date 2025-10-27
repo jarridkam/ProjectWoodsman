@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0154f7d01f9921947abe1375ff8eb033
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Scripts/Unity/Terrain Tools/license.txt
+  uploadId: 601364

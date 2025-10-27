@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 332f8c163f25360448f8e31eef40b54d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Lighting/Content Resources/High Definition
+    Pipeline/Lighting Profiles/Gaia Default HDRP Lighting Profile.asset
+  uploadId: 601364

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5d4591d16ae85049a2e06114b74b315
+timeCreated: 1442463180
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Settings/GD Ultra Light Settings.asset
+  uploadId: 601364

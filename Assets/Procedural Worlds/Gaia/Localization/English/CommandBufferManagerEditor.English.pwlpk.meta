@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d75e9502442f5b4c910169187e1f3f5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Localization/English/CommandBufferManagerEditor.English.pwlpk
+  uploadId: 601364

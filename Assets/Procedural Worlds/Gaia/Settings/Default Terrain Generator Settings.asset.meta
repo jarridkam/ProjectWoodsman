@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 81b0e93a964e9804c9806f8bde6ba9ec
+labels:
+- GaiaManagerSpawner
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193509
+  packageName: Gaia 2021 - Terrain & Scene Generator
+  packageVersion: 3.4.0
+  assetPath: Assets/Procedural Worlds/Gaia/Settings/Default Terrain Generator Settings.asset
+  uploadId: 601364
