@@ -1,11 +1,30 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{282D7F2A-B333-BA91-1C26-4188D7CA983F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{1FF0D870-77D4-A2C9-803A-390EBCC07426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.Modules.UnityMathematics", "Sirenix.OdinInspector.Modules.UnityMathematics.csproj", "{299B640E-43B7-CE37-24CE-CD6AA9D422FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282D7F2A-B333-BA91-1C26-4188D7CA983F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282D7F2A-B333-BA91-1C26-4188D7CA983F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282D7F2A-B333-BA91-1C26-4188D7CA983F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282D7F2A-B333-BA91-1C26-4188D7CA983F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF0D870-77D4-A2C9-803A-390EBCC07426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF0D870-77D4-A2C9-803A-390EBCC07426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF0D870-77D4-A2C9-803A-390EBCC07426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF0D870-77D4-A2C9-803A-390EBCC07426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299B640E-43B7-CE37-24CE-CD6AA9D422FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299B640E-43B7-CE37-24CE-CD6AA9D422FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299B640E-43B7-CE37-24CE-CD6AA9D422FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299B640E-43B7-CE37-24CE-CD6AA9D422FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
