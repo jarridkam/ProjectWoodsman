@@ -1627,6 +1627,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{16E0AD9D-1E54-00C4-CA30-2EE2CAA91924}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
     <ProjectReference Include="Sirenix.OdinInspector.Modules.UnityMathematics.csproj">
       <Project>{299B640E-43B7-CE37-24CE-CD6AA9D422FE}</Project>
       <Name>Sirenix.OdinInspector.Modules.UnityMathematics</Name>

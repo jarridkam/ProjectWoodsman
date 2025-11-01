@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{1FF0D870-77D4-A2C9-803A-390EBCC07426}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{16E0AD9D-1E54-00C4-CA30-2EE2CAA91924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{2FAE209A-63DC-E75C-443B-05ECE4C900B0}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.Modules.UnityMathematics", "Sirenix.OdinInspector.Modules.UnityMathematics.csproj", "{299B640E-43B7-CE37-24CE-CD6AA9D422FE}"
 EndProject
 Global
@@ -21,6 +25,14 @@ Global
 		{1FF0D870-77D4-A2C9-803A-390EBCC07426}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FF0D870-77D4-A2C9-803A-390EBCC07426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FF0D870-77D4-A2C9-803A-390EBCC07426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E0AD9D-1E54-00C4-CA30-2EE2CAA91924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E0AD9D-1E54-00C4-CA30-2EE2CAA91924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E0AD9D-1E54-00C4-CA30-2EE2CAA91924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E0AD9D-1E54-00C4-CA30-2EE2CAA91924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FAE209A-63DC-E75C-443B-05ECE4C900B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAE209A-63DC-E75C-443B-05ECE4C900B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAE209A-63DC-E75C-443B-05ECE4C900B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAE209A-63DC-E75C-443B-05ECE4C900B0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{299B640E-43B7-CE37-24CE-CD6AA9D422FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{299B640E-43B7-CE37-24CE-CD6AA9D422FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{299B640E-43B7-CE37-24CE-CD6AA9D422FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
